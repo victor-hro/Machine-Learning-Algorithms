@@ -1,0 +1,29 @@
+warning: LF will be replaced by CRLF in Exercícios/Exercício 6 - Redes Neurais/.ipynb_checkpoints/Exercício 6 - Victor Hugo Rocha de Oliveira-checkpoint.ipynb.
+The file will have its original line endings in your working directory
+[1mdiff --git "a/Exerc\303\255cios/Exerc\303\255cio 6 - Redes Neurais/.ipynb_checkpoints/Exerc\303\255cio 6 - Victor Hugo Rocha de Oliveira-checkpoint.ipynb" "b/Exerc\303\255cios/Exerc\303\255cio 6 - Redes Neurais/.ipynb_checkpoints/Exerc\303\255cio 6 - Victor Hugo Rocha de Oliveira-checkpoint.ipynb"[m
+[1mindex b2edb3a..afd8902 100644[m
+[1m--- "a/Exerc\303\255cios/Exerc\303\255cio 6 - Redes Neurais/.ipynb_checkpoints/Exerc\303\255cio 6 - Victor Hugo Rocha de Oliveira-checkpoint.ipynb"[m	
+[1m+++ "b/Exerc\303\255cios/Exerc\303\255cio 6 - Redes Neurais/.ipynb_checkpoints/Exerc\303\255cio 6 - Victor Hugo Rocha de Oliveira-checkpoint.ipynb"[m	
+[36m@@ -320,7 +320,7 @@[m
+    "cell_type": "markdown",[m
+    "metadata": {},[m
+    "source": [[m
+[31m-    "1. Vetor w utilizando activation='identity':\n",[m
+[32m+[m[32m    "1. Vetor w utilizando regressão logística:\n",[m
+     " * w = -0.14072583, -0.16260896\n",[m
+     "\n",[m
+     "2. Vetor w utilizando activation='logistic':\n",[m
+[36m@@ -5051,6 +5051,13 @@[m
+    "source": [[m
+     "![image.png](attachment:image.png)"[m
+    ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": null,[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [],[m
+[32m+[m[32m   "source": [][m
+   }[m
+  ],[m
+  "metadata": {[m
