@@ -1,4 +1,5 @@
-# Machine-Learning - UFSC
+# Matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica.
+
 Aula 01 - Regressão Linear
 
 Aula 02 -
