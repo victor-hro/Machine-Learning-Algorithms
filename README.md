@@ -1,4 +1,4 @@
-# Machine-Learning UFSC
+# Machine-Learning - UFSC
 Aula 01 - Regressão Linear
 
 Aula 02 -
