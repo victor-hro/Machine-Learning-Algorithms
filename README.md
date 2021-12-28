@@ -1,4 +1,6 @@
-# Matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica.
+# Aprendizado de Máquina
+
+##  Matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica.
 
 Aula 01 - Regressão Linear
 
