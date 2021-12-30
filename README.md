@@ -1,6 +1,6 @@
 # Aprendizado de Máquina
 
-##  Matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica - UFSC.
+##  Notebooks contendo algoritmos de machine learning utilizados na matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica - UFSC.
 
 Aula 01 - Regressão Linear
 
