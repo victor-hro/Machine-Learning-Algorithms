@@ -1,6 +1,6 @@
 # Aprendizado de Máquina
 
-##  Notebooks contendo algoritmos de machine learning utilizados na matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica - UFSC.
+##  Notebooks contendo algoritmos de aprendizado supervisionado e não supervisionado. Os notebooks foram feitos por meio da matéria de Aprendizado de Máquina durante meu Mestrado em Engenharia Elétrica - UFSC.
 
 Aula 01 - Regressão Linear
 
