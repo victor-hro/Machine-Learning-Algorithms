@@ -1,6 +1,6 @@
 # Aprendizado de Máquina
 
-##  Notebooks contendo algoritmos de aprendizado supervisionado e não supervisionado. Os notebooks foram feitos por meio da matéria de Aprendizado de Máquina durante meu Mestrado em Engenharia Elétrica - UFSC.
+##  Notebooks contendo algoritmos de aprendizado supervisionado e não supervisionado. Os notebooks foram feitos na matéria de Aprendizado de Máquina durante o Mestrado em Engenharia Elétrica - UFSC.
 
 - [x] Regressão Linear
 - [x] Regressão Polinomial
