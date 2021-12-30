@@ -1,6 +1,6 @@
 # Aprendizado de Máquina
 
-##  Matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica.
+##  Matéria de Aprendizado de Máquina feita durante o meu mestrado em Engenharia Elétrica - UFSC.
 
 Aula 01 - Regressão Linear
 
